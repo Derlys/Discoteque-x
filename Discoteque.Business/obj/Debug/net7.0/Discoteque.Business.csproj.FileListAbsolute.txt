@@ -1,0 +1,12 @@
+/Users/derlys/dev/bootcampnet/Discoteque/Discoteque.Business/bin/Debug/net7.0/Discoteque.Business.deps.json
+/Users/derlys/dev/bootcampnet/Discoteque/Discoteque.Business/bin/Debug/net7.0/Discoteque.Business.dll
+/Users/derlys/dev/bootcampnet/Discoteque/Discoteque.Business/bin/Debug/net7.0/Discoteque.Business.pdb
+/Users/derlys/dev/bootcampnet/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.csproj.AssemblyReference.cache
+/Users/derlys/dev/bootcampnet/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/derlys/dev/bootcampnet/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.AssemblyInfoInputs.cache
+/Users/derlys/dev/bootcampnet/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.AssemblyInfo.cs
+/Users/derlys/dev/bootcampnet/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.csproj.CoreCompileInputs.cache
+/Users/derlys/dev/bootcampnet/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.dll
+/Users/derlys/dev/bootcampnet/Discoteque/Discoteque.Business/obj/Debug/net7.0/refint/Discoteque.Business.dll
+/Users/derlys/dev/bootcampnet/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.pdb
+/Users/derlys/dev/bootcampnet/Discoteque/Discoteque.Business/obj/Debug/net7.0/ref/Discoteque.Business.dll
